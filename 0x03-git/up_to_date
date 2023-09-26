@@ -1,0 +1,3 @@
+git fetch origin master
+git log --graph --pretty master..origin/master
+git pull
