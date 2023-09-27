@@ -1,1 +1,1 @@
-Understanding GIT and Version Control
+Understanding GIT and Version Control System
